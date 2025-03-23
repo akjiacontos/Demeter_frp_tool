@@ -11,17 +11,3 @@ Permite modificar build.prop fácilmente.
 Reconstruye el firmware y genera un nuevo AP.tar.md5 válido.
 
 Totalmente automatizado y fácil de usar.
-
-
-
-Este script es solo para uso educativo y de prueba. 
-No me hago responsable si te "encuentras" un movil y desbloqueas la cuenta de google con esto.
-
-
-
-
-
- Uso
-
-
-lo tienes en bandeja , lo quieres tambien mascado?
